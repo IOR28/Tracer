@@ -48,7 +48,8 @@ mkdir 2022/
 cp X_month.ipynb 2022/1_January.ipynb
 ```
 
-Run the notebook and start logging in your movements!
+Run the notebook and start logging in your movements! Use the example methods to introduce data into trackers, you 
+should run each cell only once in order to not duplicate information. Modify the example notebooks to your needs.
 
 > In order for the modules to be properly imported the monthly notebooks are instructed to change working directory to 
 > its parent folder. If you do not like this, you can set jupyter `--notebook-dir` everytime or add the project to PYTHONPATH.
