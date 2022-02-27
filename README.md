@@ -10,6 +10,9 @@ and generate results for a complete year.
 To get the source code, clone it from GitHub:
 
 ```bash
+git clone https://github.com/IOR28/Tracker
+
+cd ./Tracker
 ```
 
 ### Dependencies
