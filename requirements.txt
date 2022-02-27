@@ -1,0 +1,10 @@
+# Python packages required by Tracker.
+# Compatible python version: 3.9
+# Add new dependencies as required.
+# To install: pip3 install -r requirements.txt
+
+# Packages list:
+notebook
+pandas
+plotly
+notebook-as-pdf
